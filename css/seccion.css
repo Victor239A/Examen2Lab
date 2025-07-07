@@ -1,0 +1,39 @@
+.cuadro {
+    width: 900px;
+    height: 100px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    display: inline-block;
+    margin: 10px;
+    position: relative;
+    
+}
+
+
+.cuadrolateral {
+ width: 50px;
+ height: 100px;
+ background-color: black;
+ 
+}
+
+p {
+    padding: 10px;
+     display: flex;
+     padding-left: 20px;
+     
+}
+
+
+.titulos {
+   font-size: 20px;
+   color: blue;
+}
+
+
+.cuadrolateral {
+    width: 5px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+}

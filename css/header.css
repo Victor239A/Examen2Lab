@@ -1,7 +1,7 @@
 .header {
    
     background-color: #000000;
-    padding: 20px;
+    padding: 50px;
     text-align: center;
     font-family: Arial, sans-serif;
     font-size: 24px;
@@ -19,4 +19,39 @@
     margin: 10px;
     position: relative;
     
+}
+
+
+.cuadrolateral {
+ width: 50px;
+ height: 100px;
+ background-color: black;
+ 
+}
+
+p {
+    padding: 10px;
+     display: flex;
+     
+}
+
+
+.titulos {
+   font-size: 20px;
+   color: blue;
+}
+
+
+.cuadrolateral {
+    width: 10px;
+    height: 100px;
+    background-color: black;
+}
+
+
+@media (max-width: 480px) {
+  .cuadro header footer {
+    height: 150px; 
+  }
+
 }
