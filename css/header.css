@@ -4,7 +4,7 @@
     padding: 50px;
     text-align: center;
     font-family: Arial, sans-serif;
-    font-size: 24px;
+    font-size: 42px;
     color: #ffffff;
     border-bottom: 1px solid #dee2e6;
 }
@@ -51,7 +51,12 @@ p {
 
 @media (max-width: 480px) {
   .cuadro header footer {
-    height: 150px; 
+    height: 170px; 
   }
-
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+}
 }
