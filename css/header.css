@@ -50,7 +50,7 @@ p {
 
 
 @media (max-width: 480px) {
-  .cuadro header footer {
+  .cuadro .header .footer .cuadrolateral{
     height: 170px; 
   }
 .footer {
