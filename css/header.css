@@ -1,0 +1,22 @@
+.header {
+   
+    background-color: #000000;
+    padding: 20px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    color: #ffffff;
+    border-bottom: 1px solid #dee2e6;
+}
+
+
+.cuadro {
+    width: 900px;
+    height: 100px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    display: inline-block;
+    margin: 10px;
+    position: relative;
+    
+}
